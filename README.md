@@ -72,3 +72,16 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 ![VSP](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%20(54).png)
 
 
+### ✨ Future Improvements
+- Restrict users from applying for leave after exceeding their allowed leave limit
+- Email notifications for leave updates
+- Filter and search in leave records
+- Generate reports
+- Mobile-responsive design
+
+
+  ### Contact 🌐
+  For any inquires or suggestions, feel free to contact me:
+  - **Name**: Vidnagiri Kranthi Kumar
+  - **Email**: [vidnagiri@gmail.com](mailto:vidnagiri@gmail.com)
+  - **GitHub**: [KranthiVidnagiri](https://github.com/KranthiVidnagiri)

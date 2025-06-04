@@ -80,8 +80,8 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 - Mobile-responsive design
 
 
-  ### Contact 🌐
+### 🌐 Contact 
   For any inquires or suggestions, feel free to contact me:
-  - **Name**: Vidnagiri Kranthi Kumar
-  - **Email**: [vidnagiri@gmail.com](mailto:vidnagiri@gmail.com)
-  - **GitHub**: [KranthiVidnagiri](https://github.com/KranthiVidnagiri)
+   - **Name**: Vidnagiri Kranthi Kumar
+   - **Email**: [vidnagiri@gmail.com](mailto:vidnagiri@gmail.com)
+   - **GitHub**: [KranthiVidnagiri](https://github.com/KranthiVidnagiri)

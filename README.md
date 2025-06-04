@@ -9,18 +9,22 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 - ✅ Employee registration and secure login
 - 📅 Online leave application and status tracking
 - 🗂️ Different leave types: casual, sick, paid, etc.
-- 🔐 Admin Login
+- 🔐 Admin login with access control
 - 📋 Admin dashboard to view and manage all leave requests
 - 📊 Leave and attendance summary reports
 - 📂 Record of approved/rejected leaves
-- 📬 Email/Alert notification system
+- 📬 Email or alert notification system (optional)
 
-
+---
 
 ## 🛠️ Tech Stack
 
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
+- **Authentication**: PHP Sessions  
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP 
-- **Database**: MySQL 
-- **Authentication**: Sessions 
+---
+
+## 📂 Project Structure
+

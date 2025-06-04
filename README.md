@@ -16,3 +16,11 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 - 📬 Email/Alert notification system
 
 
+
+## 🛠️ Tech Stack
+
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP 
+- **Database**: MySQL 
+- **Authentication**: Sessions 

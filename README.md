@@ -48,5 +48,27 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 ![AL](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%202025-06-04%20140838.png)
 
 
-###Admin Login 
+### Admin Login 
 ![AdL](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%20(55).png)
+
+
+### Admin Dashboard
+![Ad](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%202025-06-04%20135555.png)
+
+
+###  Leave Request - Admin can accept or reject leaves of employee
+![LR](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%20(52).png)
+
+
+### Admin can view the employee Leaves
+![AEL](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%20(53).png)
+
+
+### Employee Login
+![EL](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%202025-06-04%20140052.png)
+
+
+###Employee View his status that admin accept or reject the leave
+![VSP](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%20(54).png)
+
+

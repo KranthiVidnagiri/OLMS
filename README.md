@@ -26,7 +26,7 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 
 ### Home Page
 ![Home Page](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%202025-06-04%20140028.png)
@@ -68,7 +68,7 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 ![EL](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%202025-06-04%20140052.png)
 
 
-###Employee View his status that admin accept or reject the leave
+### Employee View his status that admin accept or reject the leave
 ![VSP](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%20(54).png)
 
 

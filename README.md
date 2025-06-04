@@ -1,5 +1,5 @@
-# 🗂️ Leave Management System
+# 🗂️ Online Leave Management System (OLMS)
 
-A web-based Leave Management System that allows employees to apply for leave and admins to manage leave requests efficiently. This project helps organizations streamline the process of handling employee leave requests, approvals, and records.
+The **Online Leave Management System (OLMS)** is a web-based platform designed to simplify and automate the process of applying for and managing employee leaves within an organization. This system allows employees to submit leave applications online and enables administrators to efficiently review, approve, or reject those requests.
 
 ---

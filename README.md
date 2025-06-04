@@ -29,6 +29,6 @@ The **Online Leave Management System (OLMS)** is a web-based platform designed t
 ##📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](https://github.com/KranthiVidnagiri/OLMS/blob/main/ScreenShots/Screenshot%202025-06-04%20140028.png)
 
 
